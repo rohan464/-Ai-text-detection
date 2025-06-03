@@ -15,11 +15,13 @@ Integrated Transformer block for attention and Conv1D for local pattern detectio
 Achieved high generalization on unseen GPT-3 and ChatGPT samples.
 
 
-📊 Metrics Compared
+📊 Metrics Compared :
+
 Accuracy
-Precision, Recall, F1-Score
+Precision, Recall, F1-Score 
 Generalization performance on different AI models
 
 
-📁 Dataset
+📁 Dataset :
+
 Used a public Kaggle dataset containing human and AI-generated text samples from GPT-3 and ChatGPT.
