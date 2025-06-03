@@ -1,5 +1,4 @@
-# -Ai-text-detection
-🧠 AI vs Human Text Classification
+# 🧠 AI vs Human Text Classification
 
 This project focuses on distinguishing between human-written and AI-generated text using two different approaches:
 
@@ -24,14 +23,3 @@ Generalization performance on different AI models
 
 📁 Dataset
 Used a public Kaggle dataset containing human and AI-generated text samples from GPT-3 and ChatGPT.
-
-🧪 How to Run
-Clone the repo and run:
-
-# For BERT + XGBoost
-cd BERT_XGBoost
-python xgboost_classifier.py
-
-# For Hybrid Model
-cd Hybrid_LSTM_CNN
-python training_script
